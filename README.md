@@ -1,7 +1,7 @@
 # vit-cnn-mosquito-image-classification
 *ViT and CNN Mosquito Larvae Classification Research*
 
-**Title:** Autonomous Mosquito Habitat Detection using Satellite Imagery and Convolutional Nueral Networks for Disease Risk Mapping
+**Title:** A Mosquito is Worth 16x16 Larvae: Evaluation of Deep Learning Architectures for Mosquito Larvae Classification
 
 **Researchers:** Aswin Surya, David Backer Peral, Austin VanLoon, Akhila Rajesh
 
